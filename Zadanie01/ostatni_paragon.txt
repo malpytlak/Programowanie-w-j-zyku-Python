@@ -1,0 +1,18 @@
+=== PARAGON GENERATOR ===
+
+mleko
+  Cena przed: 25.00 PLN
+  Rabat: 5.00 PLN
+  Cena po: 20.00 PLN
+
+chleb
+  Cena przed: 9.00 PLN
+  Rabat: 3.00 PLN
+  Cena po: 6.00 PLN
+
+----- PODSUMOWANIE -----
+Suma brutto: 26.00 PLN
+Suma netto: 21.14 PLN
+VAT: 4.86 PLN
+Dostawa: 15.00 PLN
+Oszczędność klienta: 8.00 PLN
